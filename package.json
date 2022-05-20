@@ -1,0 +1,19 @@
+{
+  "name": "npm_package",
+  "version": "1.0.0",
+  "description": "Este es un paquete de prueba para un examen",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxaRivera/npm_package.git"
+  },
+  "author": "Axa Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxaRivera/npm_package/issues"
+  },
+  "homepage": "https://github.com/AxaRivera/npm_package#readme"
+}
