@@ -4,7 +4,8 @@
   "description": "Este es un paquete de prueba para un examen",
   "main": "main.js",
   "scripts": {
-    "test": "node main.js"
+    "test": "node main.js", 
+    "test_m": "node math_test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AxaRivera/npm_package/issues"
   },
-  "homepage": "https://github.com/AxaRivera/npm_package#readme"
+  "homepage": "https://github.com/AxaRivera/npm_package#readme",
+  "dependencies": {
+    "mathjs": "^10.5.3"
+  }
 }
